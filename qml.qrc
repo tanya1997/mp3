@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>file.png</file>
+        <file>pause.png</file>
+        <file>return.png</file>
+        <file>play.png</file>
+        <file>stop.png</file>
+        <file>minus.png</file>
+        <file>nazad.png</file>
+        <file>plus.png</file>
+        <file>vpered.png</file>
+        <file>abc.png</file>
+        <file>gtk-close.png</file>
+        <file>stopi.png</file>
+        <file>volume.png</file>
+        <file>vniz.png</file>
+        <file>vverh.png</file>
+    </qresource>
+</RCC>
